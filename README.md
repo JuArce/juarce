@@ -27,8 +27,6 @@ I’m currently pursuing **SE @ITBA**. <br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JuArce&theme=algolia)](https://git.io/streak-stats)
 
-<a href="https://github.com/remcohalman/github-readme-stats">
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JuArce&theme=algolia" />
-</a>
+
 </div>
 </div>
