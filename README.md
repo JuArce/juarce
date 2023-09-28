@@ -11,7 +11,7 @@
 
 I’m currently pursuing **SE @ITBA**. <br>
 
-### 🕵 Contact:<br>
+### 🦖 Contact:<br>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-JuArce-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/julian-arce-1752a714b)](www.linkedin.com/in/julian-arce-1752a714b)
